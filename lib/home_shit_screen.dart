@@ -66,7 +66,6 @@ class _AnimatedShitViewState extends State<AnimatedShitView>
 
 class BackgroundLayer extends StatelessWidget {
   const BackgroundLayer({Key key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Container(
