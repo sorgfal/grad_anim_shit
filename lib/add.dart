@@ -7,6 +7,8 @@ class GradShitApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      /// На написании этого момента, человеку уже ответили, что нужно делать
+      /// В деталях. Так что тут был момент безисходности...
       home: HomeShitScreen(),
     );
   }
